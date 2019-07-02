@@ -10,6 +10,9 @@ public class Student {
 	private static int idCounter = 0;
 	public void setId() {
 		this.id = idCounter++;
+		//TODO linkage
+		
+		
 	}
 	public String getName() {
 		return name;
